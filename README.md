@@ -1,2 +1,19 @@
-# Trascrizioni_Lezioni_Corso_Magistrale_Informatica_E_Innovazione_Digitale_UniUrb
-Collezioni di trascrizioni (fatte tramite whisper turbo) dei video pubblicati dai professori dei corsi di laurea magistrazle di "Informatica e innovazione digitale" presso l'Università di Urbino
+# Trascrizioni delle lezioni registrate del corso di laurea magistrale di `Informatica E Innovazione Digitale` presso l'università di Urbino
+
+Le trascrizioni sono state fatte usando whisper turbo sulle registrazioni pubblicate dai professori.
+
+<div align="center">
+
+## 👉 Materie trascritte 👈
+
+<div>
+
+---
+
+  <a href="https://github.com/R0mb0/Not_made_by_AI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
+    <img alt="Not made by AI" src="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
+  </picture>
+</a>
