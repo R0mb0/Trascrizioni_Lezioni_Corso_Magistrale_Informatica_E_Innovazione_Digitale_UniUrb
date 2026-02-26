@@ -15,6 +15,19 @@ Le trascrizioni sono state fatte usando whisper turbo sulle registrazioni pubbli
 
 </div>
 
+- PROGRAMMAZIONE DI DISPOSITIVI MOBILI E INTERFACCE UTENTE
+- SOCIAL NETWORK ANALYSIS
+- PROGRAMMAZIONE PER L'INTERNET OF THINGS
+- MACHINE LEARNING
+- APPLICAZIONI DISTRIBUITE E CLOUD COMPUTING
+- ELABORAZIONE DEI DATI SPERIMENTALI
+- METODI NUMERICI PER L'ALGEBRA LINEARE E L'ANALISI FUNZIONALE
+- SICUREZZA INFORMATICA
+
+---
+
+Se hai delle correzioni da fare o delle aggiunte sentiti libero di contattarmi o di aprire delle pull request! 😊
+
 ---
 
 <a href="https://github.com/R0mb0/Crafted_with_AI">
